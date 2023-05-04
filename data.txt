@@ -1,6 +1,0 @@
-Amazon | aryan@gmail.com | amazon@123
-SQL | sql@gmail.com | sql@123
-Flipkart | aryan@gmail.com | flipkart@123
-Reddit | aryan@gmail.com | reddit@123
-Oracle | aryan@gmail.com | oracle@123
-Facebook | aryan@gmail.com | mark@123
